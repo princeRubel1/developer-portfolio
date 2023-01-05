@@ -26,7 +26,7 @@
 nav{
     display: flex;
     justify-content: space-between;
-    padding: 36px 200px;
+    padding: 50px 200px;
 }
 nav li{
     list-style: none;
